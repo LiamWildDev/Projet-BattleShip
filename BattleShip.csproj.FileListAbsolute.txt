@@ -1,0 +1,10 @@
+C:\Users\liam_\Desktop\Ecole\Programmaiton objet 1\Documents_etudiants_travail2\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\liam_\Desktop\Ecole\Programmaiton objet 1\Documents_etudiants_travail2\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\liam_\Desktop\Ecole\Programmaiton objet 1\Documents_etudiants_travail2\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\liam_\Desktop\Ecole\Programmaiton objet 1\Documents_etudiants_travail2\BattleShip\BattleShip\obj\Debug\BattleShip.csprojAssemblyReference.cache
+C:\Users\liam_\Desktop\Ecole\Programmaiton objet 1\Documents_etudiants_travail2\BattleShip\BattleShip\obj\Debug\BattleShip.Form1.resources
+C:\Users\liam_\Desktop\Ecole\Programmaiton objet 1\Documents_etudiants_travail2\BattleShip\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+C:\Users\liam_\Desktop\Ecole\Programmaiton objet 1\Documents_etudiants_travail2\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.cache
+C:\Users\liam_\Desktop\Ecole\Programmaiton objet 1\Documents_etudiants_travail2\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\liam_\Desktop\Ecole\Programmaiton objet 1\Documents_etudiants_travail2\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\liam_\Desktop\Ecole\Programmaiton objet 1\Documents_etudiants_travail2\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
